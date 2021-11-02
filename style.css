@@ -1,0 +1,8 @@
+body{
+text-align:center;
+background-image:url("bg1.jpg")
+}
+#Canvastouch{
+border-width: 5px;
+border-style: ridge;
+}
